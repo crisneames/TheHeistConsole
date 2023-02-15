@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheHeistConsole", "TheHeistConsole.csproj", "{D780FFF2-3081-46B2-83DC-95BDC39F03AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D780FFF2-3081-46B2-83DC-95BDC39F03AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D780FFF2-3081-46B2-83DC-95BDC39F03AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D780FFF2-3081-46B2-83DC-95BDC39F03AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D780FFF2-3081-46B2-83DC-95BDC39F03AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7A6997D-6E52-46A1-99DD-EBC7C5A2987A}
+	EndGlobalSection
+EndGlobal
